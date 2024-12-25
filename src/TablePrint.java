@@ -16,7 +16,7 @@ public class TablePrint {
 
         while(sp <= ep)
         {
-            table = number * sp;
+            table = number * sp; // calculations
             System.out.println(number + " X " + sp + " = " + table);
             sp++;
         }
