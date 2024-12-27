@@ -6,7 +6,6 @@ public class UserInputWhile {
 
         Scanner sc = new Scanner(System.in);
         String userInput = "";
-
         do
         {
             if(userInput.isEmpty())
